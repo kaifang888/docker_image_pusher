@@ -1,1 +1,1 @@
-apache/rocketmq-dashboard:5.1.1
+redis
